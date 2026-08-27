@@ -1,0 +1,21 @@
+{
+  "node_id": "NODE_SECTOR9_ALPHA_04",
+  "hardware": {
+    "architecture": "aarch64",
+    "chipset": "NVIDIA Jetson Orin Nano",
+    "board_temp_celsius": 42.5
+  },
+  "telemetry": {
+    "carrier_frequency_hz": 39420.00,
+    "phase_drift_microseconds": +0.004,
+    "writhe_number_wK": 2,
+    "packet_density_ratio": 0.84,
+    "rssi_dbm": -58
+  },
+  "topological_state": {
+    "braid_homotopy_class": "σ1 · σ2⁻¹",
+    "yang_baxter_verified": true,
+    "zk_proof_hash": "0x8f4b2...39420"
+  },
+  "timestamp_utc": "2026-08-27T02:38:38Z"
+}
